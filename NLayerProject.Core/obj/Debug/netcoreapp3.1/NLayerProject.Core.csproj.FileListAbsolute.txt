@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb

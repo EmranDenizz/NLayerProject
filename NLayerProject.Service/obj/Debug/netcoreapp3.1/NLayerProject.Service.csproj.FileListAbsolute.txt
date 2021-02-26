@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\Users\User\Desktop\asp.net core mvc\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb

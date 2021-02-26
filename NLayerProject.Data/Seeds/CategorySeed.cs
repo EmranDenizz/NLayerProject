@@ -1,0 +1,25 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using NLayerProject.Core;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace NLayerProject.Data.Seeds
+{
+    public class CategorySeed : IEntityTypeConfiguration<Category>
+    {
+
+        private readonly int[] _ids;  //Buradan kategoryId'ler gelicek.
+        public CategorySeed(int[] ids) //_ids değişkeni bu constructor içinde doldurulacak.
+        {
+            _ids = ids;
+        }
+        public void Configure(EntityTypeBuilder<Category> builder)
+        {
+            builder.HasData(
+                new Category { Id = _ids[0], Name = "Kalemler" },
+                new Category { Id = _ids[1], Name = "Defterler" });
+        }
+    }
+}
